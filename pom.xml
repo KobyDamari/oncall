@@ -78,12 +78,6 @@
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
         </dependency>
-        <!-- tests -->
-        <dependency>
-            <groupId>no.finn.finnbox.utils.cassandra</groupId>
-            <artifactId>commons-cassandra</artifactId>
-            <type>test-jar</type>
-        </dependency>
     </dependencies>
 
     <build>
